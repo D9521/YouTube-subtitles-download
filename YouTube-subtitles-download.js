@@ -2,7 +2,7 @@
 // @name         YouTube 字幕快速下載 (SRT / TXT - PO Token 修復版)
 // @name:en      YouTube Subtitle Quick Downloader (SRT / TXT - PO Token Fix)
 // @namespace    https://greasyfork.org/users/你的名字
-// @version      1.0.0
+// @version      1.0.1
 // @description  自動捕獲 YouTube 播放器的 PO Token (pot)，解決字幕下載失敗問題，支援下載 SRT 與 TXT 格式
 // @description:en Automatically captures YouTube player's PO Token (pot) to download SRT and TXT subtitles reliably
 // @author       D9521
